@@ -1,5 +1,5 @@
 # WeChat-applet-Home-shopping-mall-
-这是我写的一个以家居电商为主题的微信小程序！
+这是本人设计的一个以家居电商为主题的微信小程序！
 # 首页界面
 ![image](https://github.com/feng-yu-hong/WeChat-applet-Home-shopping-mall-/blob/master/img/1.PNG)
 # 热销产品界面
